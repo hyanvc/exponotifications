@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1071120587695",
+    "project_id": "testefirebase-8ff12",
+    "storage_bucket": "testefirebase-8ff12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071120587695:android:c2f50a5458fef9a5aa6d5a",
+        "android_client_info": {
+          "package_name": "com.test.meuappnotificacoes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa10RLO_HPg5SJ5XmwvLiZ17k3eQe2XD4"
+        },
+        {
+          "current_key": "AIzaSyAJdl8nfpbNh_JIWkdj_m2FKDrMLgWAgc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071120587695:android:529548f19b06a519aa6d5a",
+        "android_client_info": {
+          "package_name": "planocvi.goodbarber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa10RLO_HPg5SJ5XmwvLiZ17k3eQe2XD4"
+        },
+        {
+          "current_key": "AIzaSyAJdl8nfpbNh_JIWkdj_m2FKDrMLgWAgc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
